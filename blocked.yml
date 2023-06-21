@@ -1,0 +1,6 @@
+- url: "devclient.atoro.tech"
+  reason: "Site contains malicious content"
+- url: "example.net"
+  reason: "Site violates our terms of service"
+- url: "example.org"
+  reason: "Site is a known phishing site"
